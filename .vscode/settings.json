@@ -1,3 +1,9 @@
 {
-   
+  "workbench.colorCustomizations": {
+    "editorLineNumber.foreground": "#ffc800"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 750
 }
